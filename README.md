@@ -35,9 +35,11 @@ Lexer - programmer/friend
   </a>
 </div>
 
+<head>
 <style>
 body
   {
   background: #737373;
   }
 </style>
+  </head>
