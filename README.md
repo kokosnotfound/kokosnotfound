@@ -19,8 +19,8 @@ Lexer - programmer/friend
   <a href="https://github.com/Maksiooo/Clock">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maksiooo&repo=Clock&theme=dracula" alt="Discord" width="400"/>
   </a>
-  <a href="https://github.com/DashCruft/Discord.js-custom-prefix">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.js-custom-prefix&theme=dracula" alt="Discord" width="400"/>
+  <a href="https://github.com/Maksiooo/clicker">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maksiooo&repo=clicker&theme=dracula" alt="Discord" width="400"/>
   </a>
 </div>
 
