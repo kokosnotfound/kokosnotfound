@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Maksiooo/Maksiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on electron app.
+- 🌱 I’m currently learning javascript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about something
+- 📫 My email: kokosowiec.wspolpraca@gmail.com
+- ⚡ Fact: The first computer virus was created in 1983.
+
+# Thanks for
+
+Dragon - friend
+
+Tobioul - friend
+
+Lexer - programmer/friend
