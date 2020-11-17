@@ -16,6 +16,17 @@ Tobioul - friend
 Lexer - programmer/friend
 
 <div align="center">
+  <a href="https://github.com/Maksiooo/Clock">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maksiooo&repo=Clock&theme=dracula" alt="Discord" width="400"/>
+  </a>
+  <a href="https://github.com/DashCruft/Discord.js-custom-prefix">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.js-custom-prefix&theme=dracula" alt="Discord" width="400"/>
+  </a>
+</div>
+
+<p></p>
+
+<div align="center">
   <a href="https://discord.gg/RMy6GTYhmU">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
