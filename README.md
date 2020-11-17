@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maksiooo/Maksiooo)
 ![GitHub contributors](https://img.shields.io/github/contributors/Maksiooo/Maksiooo)
-![GitHub stars](https://img.shields.io/github/stars/Maksiooo/Maksioooo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Maksiooo/Maksiooo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Maksiooo/Maksiooo?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Maksymi68337582?style=social)
 
