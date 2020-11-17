@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Maksiooo/README.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maksiooo/Maksiooo/README.md)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Maksymi68337582?style=social)
 
 # Hi there 👋
