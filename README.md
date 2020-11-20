@@ -37,5 +37,6 @@ Lexer - programmer/friend
   </a>
 </div>
 
-
+<div align="center">
 ![Discord](https://discord.c99.nl/widget/theme-3/655432707257663497.png)
+</div>
