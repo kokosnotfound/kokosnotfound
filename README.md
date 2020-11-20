@@ -38,5 +38,5 @@ Lexer - programmer/friend
 </div>
 
 <div align="center">
-![Discord](https://discord.c99.nl/widget/theme-3/655432707257663497.png)
+  <img src="https://discord.c99.nl/widget/theme-3/655432707257663497.png" alt="Discord">
 </div>
